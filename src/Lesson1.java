@@ -4,7 +4,7 @@ public class Lesson1 {
 
     }
 
-    public static void createVariables(){
+    public static void createVariables() {
         byte byteVariable = 0;
         short shortVariable = 0;
         int intVariable = 0;
@@ -36,8 +36,8 @@ public class Lesson1 {
         return value < 0;
     }
 
-    public static void printGreetings(String name){
-        System.out.println("Привет, "+name+"!");
+    public static void printGreetings(String name) {
+        System.out.println("Привет, " + name + "!");
     }
 
 }
